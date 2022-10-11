@@ -20,7 +20,7 @@ public class Bird extends Animal{
     @Override
     public void showInfo() {
         System.out.println("Bird [height=" + getHeight() + " m, weight= " 
-        + getWeight() + " kg, animalType" + getAnimalType() + ", bloodType=" + 
+        + getWeight() + " kg, animalType=" + getAnimalType() + ", bloodType=" + 
         getBloodType() + ", coverIn=" + coverIn + ", canDo=" + canDo + "]");
     }
 

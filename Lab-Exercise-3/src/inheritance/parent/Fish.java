@@ -20,7 +20,7 @@ public class Fish extends Animal{
     @Override
     public void showInfo() {
         System.out.println("Fish [height=" + getHeight() + " m, weight= " 
-        + getWeight() + " kg, animalType" + getAnimalType() + ", bloodType=" + 
+        + getWeight() + " kg, animalType=" + getAnimalType() + ", bloodType=" + 
         getBloodType() + ", liveIn=" + liveIn + ", breathThrough=" + breathThrough + "]");
     }
 

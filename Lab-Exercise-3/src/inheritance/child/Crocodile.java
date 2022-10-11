@@ -17,7 +17,7 @@ public class Crocodile extends Reptile {
     public void showInfo() {
         System.out.println("Crocodile [height=" + getHeight() + " m, weight= " 
         + getWeight() + " kg, animalType=" + getAnimalType() + ", bloodType=" + 
-        getBloodType() + "skinType=" + getSkinType() + ", bone=" + getBone() + ", eggType=" + getEggType() + "]");
+        getBloodType() + ", skinType=" + getSkinType() + ", bone=" + getBone() + ", eggType=" + getEggType() + "]");
     }
 
 }

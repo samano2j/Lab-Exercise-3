@@ -22,7 +22,7 @@ public class Animal {
 
     public void showInfo() {
         System.out.println("Animal [height=" + height + " m, weight= " 
-        + weight + " kg, animalType" + animalType + ", bloodType=" + bloodType + "]");
+        + weight + " kg, animalType=" + animalType + ", bloodType=" + bloodType + "]");
     }
 
 

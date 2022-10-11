@@ -23,8 +23,8 @@ public class Reptile extends Animal{
     @Override
     public void showInfo() {
         System.out.println("Reptile [height=" + getHeight() + " m, weight= " 
-        + getWeight() + " kg, animalType" + getAnimalType() + ", bloodType=" + 
-        getBloodType() + "skinType=" + skinType + ", bone=" + bone + ", eggType=" + eggType + "]");
+        + getWeight() + " kg, animalType=" + getAnimalType() + ", bloodType=" + 
+        getBloodType() + ", skinType=" + skinType + ", bone=" + bone + ", eggType=" + eggType + "]");
     }
 
     public String getSkinType() {
